@@ -2,7 +2,7 @@
 <h2>👨‍💻 Artificial Intelligence Projects:</h2>
 
 - <b>Data Structures Project </b>
-  - [Send Message Anonymously(Saraha)]()
+  - [Send Messages Anonymously(Saraha)]()
 - <b>Algorithms Project </b>
   - [Encrypt & Decrypt Messages](https://github.com/MinaBoktor/RSA-secureX) <b><i>(using C#)</b></i>
 - 
