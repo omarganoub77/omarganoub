@@ -6,5 +6,5 @@
 - <b>Algorithms Project </b>
   - [Encrypt & Decrypt Messages](https://github.com/MinaBoktor/RSA-secureX) <b><i>(using C#)</b></i>
 - <b>Smart Scanner App Integration in Odoo 18 ERP </b>
-  - [Scan product's barcode then it's name appears in Odoo,The user should choose (PO, SO, Receipts or Deliveries) and count is automatically changed in Stock](https://github.com/SQUADbcc/omar-ganoub4.git) <b><i>(using Python, XML, HTML, CSS, JavaScript)</i></b>
+  - [Scan product's barcode then it's name appears in Odoo,The user should choose (PO, SO, Receipts or Deliveries) and count is automatically changed in Stock](https://github.com/SQUADbcc/omar-ganoub4.git) <b><i>(using Python, XML, CSS, JavaScript)</i></b>
   
