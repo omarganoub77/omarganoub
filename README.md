@@ -1,7 +1,9 @@
 <h1>Hi, I'm Omar! <br/><a href="https://www.linkedin.com/in/omar-ganoub-1550ba294">Programmer</a>, <a href="https://www.linkedin.com/in/omar-ganoub-1550ba294">Artificial Intelligence Student</a>
 <h2>👨‍💻 Projects:</h2>
 
-- <b>AI Project </b>
+- <b>Web Development Project</b>
+  - [Gym-Tracker](https://github.com/omarganoub77/Gym-Tracker)<b><i> (html)</i></b>
+- <b>AI/ML Project </b>
   - [Smart Phone Price Prediction by Classification](https://github.com/omarganoub77/Phone-Price-Prediction)<b><i> (Python)</i></b>
 - <b>Data Structures Project </b>
   - [Send Messages Anonymously(Saraha)](https://github.com/omarganoub77/Saraha-project.git)<b><i> (C++)</i></b>
